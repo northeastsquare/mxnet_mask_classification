@@ -2,7 +2,9 @@
 2. 分类图片位于：https://drive.google.com/open?id=1lK9NA6ZO-cnvKoVkGPeID-2uSPk4yEDV
    图片转换找的 .rec, .list文件位于：https://drive.google.com/open?id=1lK9NA6ZO-cnvKoVkGPeID-2uSPk4yEDV
 3. 训练使用： python image_classification.py
+ 
 4. inference使用： python inference.py
+
 # Image Classification
 
 This fold contains examples for image classification. The goal of image
